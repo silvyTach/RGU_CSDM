@@ -4,7 +4,7 @@ body{
     padding:0;
 }
 
-#logo {
+#rguLogo {
     display: inline-block;
     float: left;
 }
@@ -93,12 +93,12 @@ body{
     display: block;
     margin-top: -17px;
 }
-#nav {
+#headline {
     display: block;
     clear: both;
     height: 50%;
 }
-#panel {
+#image {
     width: 100%;
     height: auto;
     position: absolute;
